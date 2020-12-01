@@ -1,1 +1,1 @@
-[![Banner](https://raw.githubusercontent.com/flexagoon/flexagoon/main/banner.png)](https://flexagoon.ru)
+[![Banner](https://flexagoon.ru/github-banner.png)](https://flexagoon.ru)
