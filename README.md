@@ -28,7 +28,7 @@
 
 ### :globe_with_meridians: Other
 
-[![Telegram API](https://shields.io/badge/Telegram%20API-26A5E4?style=for-the-badge&logoColor=white&logo=telegram)](https://telegram.org)
+[![Telegram API](https://shields.io/badge/Telegram%20API-26A5E4?style=for-the-badge&logoColor=white&logo=telegram)](https://core.telegram.org)
 [![LaTeX](https://shields.io/badge/LaTeX-008080?style=for-the-badge&logoColor=white&logo=latex)](https://latex-project.org)
 [![OSM Mapping](https://shields.io/badge/OSM%20Mapping-7EBC6F?style=for-the-badge&logoColor=white&logo=openstreetmap)](https://osm.org)
 [![Git](https://shields.io/badge/Git%20(obviously%20lol)-F05032?style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com)
