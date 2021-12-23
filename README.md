@@ -7,7 +7,7 @@
 [![Editor: Doom Emacs](https://shields.io/badge/Editor-Doom%20Emacs-7F5AB6?style=for-the-badge&logoColor=white&logo=GNU%20Emacs&link=)](https://github.com/hlissner/doom-emacs)
 [![DE: KDE Plasma](https://shields.io/badge/DE-KDE%20Plasma-1D99F3?style=for-the-badge&logoColor=white&logo=KDE)](https://kde.org)
 [![Browser: Firefox](https://shields.io/badge/Browser-Firefox-FF7139?style=for-the-badge&logoColor=white&logo=Firefox%20Browser)](https://mozilla.org/firefox)
-<p> </p>
+
 [![Laptop: ASUS ROG Strix GL702VS](https://shields.io/badge/%F0%9F%92%BB%20Laptop-ASUS%20ROG%20Strix%20GL702VS-ED1C24?style=for-the-badge&logoColor=white)](https://www.dictionary.com/browse/shit)
 
 ## :sunglasses: Skills
