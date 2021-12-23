@@ -15,9 +15,18 @@
 ![Python](https://shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white&logo=python&link=https://python.org)
 ![C#](https://shields.io/badge/Microsoft%20Java%20(C%23)-239120?style=for-the-badge&logoColor=white&logo=c%20sharp&link=https://docs.microsoft.com/en-us/dotnet/csharp)
 ![Bash](https://shields.io/badge/Bash-4EAA25?style=for-the-badge&logoColor=white&logo=gnu+bash&link=https://www.gnu.org/software/bash)
+![Nix](https://shields.io/badge/Nix-5277C3?style=for-the-badge&logoColor=white&logo=nixos&link=https://nixos.org)
 ### :key: SDKs
 ![Flutter](https://shields.io/badge/Flutter-02569B?style=for-the-badge&logoColor=white&logo=flutter&link=https://flutter.dev)
 ![SpigotMC](https://shields.io/badge/SpigotMC-FF6A00?style=for-the-badge&logoColor=white&logo=mojang+studios&link=https://spigotmc.org)
 ### :globe_with_meridians: Other
 ![Telegram API](https://shields.io/badge/Telegram%20API-26A5E4?style=for-the-badge&logoColor=white&logo=telegram&link=https://telegram.org)
 ![LaTeX](https://shields.io/badge/LaTeX-008080?style=for-the-badge&logoColor=white&logo=latex&link=https://latex-project.org)
+![OSM Mapping](https://shields.io/badge/OSM%20Mapping-7EBC6F?style=for-the-badge&logoColor=white&logo=openstreetmap&link=https://osm.org)
+
+## :mailbox: Social Media
+![Telegram](https://shields.io/badge/Telegram--0?style=social&logo=telegram&link=https://t.me/flexagoon)
+![Reddit](https://shields.io/badge/Reddit--0?style=social&logo=reddit&link=https://reddit.com/u/sevenisnotanumber2)
+![OSM](https://shields.io/badge/OSM--0?style=social&logo=openstreetmap&link=https://osm.org/user/flexagoon&logoColor=7EBC6F)
+![Mastodon](https://shields.io/badge/Mastodon--0?style=social&logo=mastodon&link=https://koyu.space/@flexagoon)
+![Email](https://shields.io/badge/Email--0?style=social&logo=protonmail&link=mailto:contact@flexagoon.com)
