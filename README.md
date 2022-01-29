@@ -5,7 +5,7 @@
 ## :computer: System info
 
 [![OS: NixOS](https://shields.io/badge/OS-NixOS-5277C3?style=for-the-badge&logoColor=white&logo=NixOS)](https://nixos.org)
-[![Editor: Doom Emacs](https://shields.io/badge/Editor-Doom%20Emacs-7F5AB6?style=for-the-badge&logoColor=white&logo=GNU%20Emacs&link=)](https://github.com/hlissner/doom-emacs)
+[![Editor: Vscodium](https://shields.io/badge/Editor-Vscodium-007ACC?style=for-the-badge&logoColor=white&logo=Visual%20Studio%20Code)](https://vscodium.com)
 [![DE: KDE Plasma](https://shields.io/badge/DE-KDE%20Plasma-1D99F3?style=for-the-badge&logoColor=white&logo=KDE)](https://kde.org)
 [![Browser: Firefox](https://shields.io/badge/Browser-Firefox-FF7139?style=for-the-badge&logoColor=white&logo=Firefox%20Browser)](https://mozilla.org/firefox)
 
