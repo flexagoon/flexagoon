@@ -2,7 +2,7 @@
 
 # :wave: Hey, welcome to my GitLab page!
 
-## :point_down: Click on any of the badges to learn more
+## :information_source: Click on any of the badges to learn more
 
 ## :computer: System info
 
