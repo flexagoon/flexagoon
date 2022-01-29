@@ -2,6 +2,8 @@
 
 # :wave: Hey, welcome to my GitLab page!
 
+## :point_down: Click on any of the badges to learn more
+
 ## :computer: System info
 
 [![OS: NixOS](https://shields.io/badge/OS-NixOS-5277C3?style=for-the-badge&logoColor=white&logo=NixOS)](https://nixos.org)
