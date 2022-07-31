@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/flexagoon/flexagoon/-/raw/main/assets/header.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/flexagoon/flexagoon/-/raw/main/assets/header-lightmode.png">
-  <img alt="a cool header, too bad you can't see it" src="https://gitlab.com/flexagoon/flexagoon/-/raw/main/assets/header-lightmode.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/github/assets/header.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/github/assets/header-lightmode.png">
+  <img alt="a cool header, too bad you can't see it" src="https://raw.githubusercontent.com/flexagoon/flexagoon/github/assets/header.png">
 </picture>
 
 # :wave: Hey, welcome to my GitHub page!
