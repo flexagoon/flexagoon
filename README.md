@@ -1,4 +1,8 @@
-![a cool header, too bad you can't see it](https://gitlab.com/flexagoon/flexagoon/-/raw/main/assets/smart-header.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/flexagoon/flexagoon/-/raw/main/assets/header.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/flexagoon/flexagoon/-/raw/main/assets/header-lightmode.png">
+  <img alt="a cool header, too bad you can't see it" src="https://gitlab.com/flexagoon/flexagoon/-/raw/main/assets/header-lightmode.png">
+</picture>
 
 # :wave: Hey, welcome to my GitLab page!
 
