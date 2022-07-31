@@ -47,4 +47,4 @@ Make sure to check out [my GitLab](https://gitlab.com/flexagoon) as well!
 [![Reddit](https://shields.io/badge/Reddit--0?style=social&logo=reddit)](https://reddit.com/u/sevenisnotanumber2)
 [![OSM](https://shields.io/badge/OSM--0?style=social&logo=openstreetmap&logoColor=7EBC6F)](https://osm.org/user/flexagoon)
 [![Mastodon](https://shields.io/badge/Mastodon--0?style=social&logo=mastodon)](https://koyu.space/@flexagoon)
-[![Email](https://shields.io/badge/Email--0?style=social&logo=protonmail)](mailto:contact@flexagoon.com)
+[![Email](https://shields.io/badge/Email--0?style=social&logo=disroot)](mailto:contact@flexagoon.com)
