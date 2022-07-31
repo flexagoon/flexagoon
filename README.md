@@ -4,7 +4,7 @@
   <img alt="a cool header, too bad you can't see it" src="https://gitlab.com/flexagoon/flexagoon/-/raw/main/assets/header-lightmode.png">
 </picture>
 
-# :wave: Hey, welcome to my GitLab page!
+# :wave: Hey, welcome to my GitHub page!
 
 ## :information_source: Click on any of the badges to learn more
 
