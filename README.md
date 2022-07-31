@@ -6,6 +6,8 @@
 
 # :wave: Hey, welcome to my GitHub page!
 
+Make sure to check out [my GitLab](https://gitlab.com/flexagoon) as well!
+
 ## :information_source: Click on any of the badges to learn more
 
 ## :computer: System info
