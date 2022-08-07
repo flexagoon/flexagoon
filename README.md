@@ -1,12 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/github/assets/header.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/github/assets/header-lightmode.png">
-  <img alt="a cool header, too bad you can't see it" src="https://raw.githubusercontent.com/flexagoon/flexagoon/github/assets/header.png">
-</picture>
+![a cool header, too bad you can't see it](https://gitlab.com/flexagoon/flexagoon/-/raw/main/assets/smart-header.png)
 
-# :wave: Hey, welcome to my GitHub page!
+# :wave: Hey, welcome to my GitLab page!
 
-Make sure to check out [my GitLab](https://gitlab.com/flexagoon) as well!
+Make sure to check out [my GitHub](https://github.com/flexagoon) as well!
 
 ## :information_source: Click on any of the badges to learn more
 
