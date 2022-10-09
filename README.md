@@ -30,6 +30,7 @@
 ### :key: SDKs
 
 [![Flutter](https://shields.io/badge/Flutter-02569B?style=for-the-badge&logoColor=white&logo=flutter)](https://flutter.dev)
+[![Supabase](https://shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logoColor=white&logo=Supabase)](https://supabase.com)
 [![SpigotMC](https://shields.io/badge/SpigotMC-FF6A00?style=for-the-badge&logoColor=white&logo=mojang+studios)](https://spigotmc.org)
 
 ### :globe_with_meridians: Other
