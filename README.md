@@ -6,18 +6,16 @@
 
 # :wave: Hey, welcome to my GitHub page!
 
-Make sure to check out [my GitLab](https://gitlab.com/flexagoon) as well!
-
 ## :information_source: Click on any of the badges to learn more
 
 ## :computer: System info
 
-[![OS: NixOS](https://shields.io/badge/OS-NixOS-5277C3?style=for-the-badge&logoColor=white&logo=NixOS)](https://nixos.org)
-[![Editor: Vscodium](https://shields.io/badge/Editor-Vscodium-007ACC?style=for-the-badge&logoColor=white&logo=Visual%20Studio%20Code)](https://vscodium.com)
-[![DE: KDE Plasma](https://shields.io/badge/DE-KDE%20Plasma-1D99F3?style=for-the-badge&logoColor=white&logo=KDE)](https://kde.org)
+[![OS: Fedora](https://shields.io/badge/OS-Fedora-51A2DA?style=for-the-badge&logoColor=white&logo=Fedora)](https://fedoraproject.org)
+[![Editor: Vscodium](https://shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logoColor=white&logo=Visual%20Studio%20Code)](https://code.visualstudio.com)
+[![DE: GNOME](https://shields.io/badge/DE-GNOME-4A86CF?style=for-the-badge&logoColor=white&logo=GNOME)](https://gnome.org)
 [![Browser: Firefox](https://shields.io/badge/Browser-Firefox-FF7139?style=for-the-badge&logoColor=white&logo=Firefox%20Browser)](https://mozilla.org/firefox)
 
-[![Laptop: ASUS ROG Strix GL702VS](https://shields.io/badge/%F0%9F%92%BB%20Laptop-ASUS%20ROG%20Strix%20GL702VS-ED1C24?style=for-the-badge&logoColor=white)](https://www.dictionary.com/browse/shit)
+[![Laptop: Dell XPS 15 9520](https://shields.io/badge/%F0%9F%92%BB%20Laptop-Dell%20XPS%2015%209520-007DB8?style=for-the-badge&logoColor=white)](https://www.dell.com/en-us/shop/dell-laptops/xps-15-laptop/spd/xps-15-9520-laptop/xn9520cto030s)
 
 ## :sunglasses: Skills
 
