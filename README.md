@@ -42,4 +42,4 @@
 
 ## :mailbox: Contact me
 
-All of my contact information can be found [here](https://fxgn.dev/contacts)
+All of my contact information can be found [here](https://fxgn.dev/contact)
