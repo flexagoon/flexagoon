@@ -40,10 +40,6 @@
 [![OSM Mapping](https://shields.io/badge/OSM%20Mapping-7EBC6F?style=for-the-badge&logoColor=white&logo=openstreetmap)](https://osm.org)
 [![Git](https://shields.io/badge/Git%20(obviously%20lol)-F05032?style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com)
 
-## :mailbox: Social Media
+## :mailbox: Contact me
 
-[![Telegram](https://shields.io/badge/Telegram--0?style=social&logo=telegram)](https://t.me/flexagoon)
-[![Reddit](https://shields.io/badge/Reddit--0?style=social&logo=reddit)](https://reddit.com/u/sevenisnotanumber2)
-[![OSM](https://shields.io/badge/OSM--0?style=social&logo=openstreetmap&logoColor=7EBC6F)](https://osm.org/user/flexagoon)
-[![Mastodon](https://shields.io/badge/Mastodon--0?style=social&logo=mastodon)](https://koyu.space/@flexagoon)
-[![Email](https://shields.io/badge/Email--0?style=social&logo=disroot)](mailto:contact@flexagoon.com)
+All of my contact information can be found [here](https://fxgn.dev/contacts)
