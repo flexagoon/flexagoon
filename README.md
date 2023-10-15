@@ -11,7 +11,7 @@
 ## :computer: System info
 
 [![OS: Fedora](https://shields.io/badge/OS-Fedora-51A2DA?style=for-the-badge&logoColor=white&logo=Fedora)](https://fedoraproject.org)
-[![Editor: Vscodium](https://shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logoColor=white&logo=Visual%20Studio%20Code)](https://code.visualstudio.com)
+[![Editor: VSCode](https://shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logoColor=white&logo=Visual%20Studio%20Code)](https://code.visualstudio.com)
 [![DE: GNOME](https://shields.io/badge/DE-GNOME-4A86CF?style=for-the-badge&logoColor=white&logo=GNOME)](https://gnome.org)
 [![Browser: Firefox](https://shields.io/badge/Browser-Firefox-FF7139?style=for-the-badge&logoColor=white&logo=Firefox%20Browser)](https://mozilla.org/firefox)
 
@@ -22,10 +22,8 @@
 ### :speech_balloon: Languages
 
 [![Dart](https://shields.io/badge/Dart-0175C2?style=for-the-badge&logoColor=white&logo=dart)](https://dart.dev)
+[![Julia](https://shields.io/badge/Julia-9558B2?style=for-the-badge&logoColor=white&logo=julia)](https://julialang.org)
 [![Python](https://shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white&logo=python)](https://python.org)
-[![C#](<https://shields.io/badge/Microsoft%20Java%20(C%23)-239120?style=for-the-badge&logoColor=white&logo=c%20sharp>)](https://docs.microsoft.com/en-us/dotnet/csharp)
-[![Bash](https://shields.io/badge/Bash-4EAA25?style=for-the-badge&logoColor=white&logo=gnu+bash)](https://www.gnu.org/software/bash)
-[![Nix](https://shields.io/badge/Nix-5277C3?style=for-the-badge&logoColor=white&logo=nixos)](https://nixos.org)
 
 ### :key: SDKs
 
