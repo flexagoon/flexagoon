@@ -10,8 +10,8 @@
 
 ## :computer: System info
 
-[![OS: Fedora](https://shields.io/badge/OS-Fedora-51A2DA?style=for-the-badge&logoColor=white&logo=Fedora)](https://fedoraproject.org)
-[![Editor: VSCode](https://shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logoColor=white&logo=Visual%20Studio%20Code)](https://code.visualstudio.com)
+[![OS: fxBlue](https://shields.io/badge/OS-fxBlue-51A2DA?style=for-the-badge&logoColor=white&logo=Fedora)](https://github.com/flexagoon/fxblue)
+[![Editor: Doom Emacs](https://shields.io/badge/Editor-Doom%20Emacs-7F5AB6?style=for-the-badge&logoColor=white&logo=GNU%20Emacs)](https://code.visualstudio.com)
 [![DE: GNOME](https://shields.io/badge/DE-GNOME-4A86CF?style=for-the-badge&logoColor=white&logo=GNOME)](https://gnome.org)
 [![Browser: Firefox](https://shields.io/badge/Browser-Firefox-FF7139?style=for-the-badge&logoColor=white&logo=Firefox%20Browser)](https://mozilla.org/firefox)
 
