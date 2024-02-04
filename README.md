@@ -11,7 +11,7 @@
 ## :computer: System info
 
 [![OS: fxBlue](https://shields.io/badge/OS-fxBlue-51A2DA?style=for-the-badge&logoColor=white&logo=Fedora)](https://github.com/flexagoon/fxblue)
-[![Editor: Doom Emacs](https://shields.io/badge/Editor-Doom%20Emacs-7F5AB6?style=for-the-badge&logoColor=white&logo=GNU%20Emacs)](https://code.visualstudio.com)
+[![Editor: Neovim](https://shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logoColor=white&logo=Neovim)](https://neovim.io)
 [![DE: GNOME](https://shields.io/badge/DE-GNOME-4A86CF?style=for-the-badge&logoColor=white&logo=GNOME)](https://gnome.org)
 [![Browser: Firefox](https://shields.io/badge/Browser-Firefox-FF7139?style=for-the-badge&logoColor=white&logo=Firefox%20Browser)](https://mozilla.org/firefox)
 
