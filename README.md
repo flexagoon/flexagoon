@@ -1,33 +1,51 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/header.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/header.png">
-  <img alt="a cool header, too bad you can't see it" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/header.png">
+  <img alt="flexagoon" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/header.png">
 </picture>
 
 # :wave: Hey, welcome to my GitHub page!
 
 ## :information_source: Click on any of the badges to learn more
 
-<details>
-<summary><h2>:computer: System info</h2></summary>
+<div align="center">
+  <details>
+  <summary>
+  <h2>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/system-info.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/system-info.png">
+      <img alt="System information" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/system-info.png">
+    </picture>
+  </h2>
+  </summary>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/laptop.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/laptop.png">
-  <img alt="Laptop: Dell XPS 15 9520" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/laptop.png">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/fxblue.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/fxblue.png">
-  <img alt="Operating system: fxBlue" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/fxblue.png">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/neovim.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/neovim.png">
-  <img alt="Text editor: neovim" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/neovim.png">
-</picture>
+  <a href="https://www.dell.com/en-us/shop/dell-laptops/xps-15-laptop/spd/xps-15-9520-laptop/xn9520cto030s">
+    <picture>
+      <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/laptop.png">
+      <source width="60%" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/laptop.png">
+      <img width="60%" alt="Laptop: Dell XPS 15 9520" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/laptop.png">
+    </picture>
+  </a>
 
-</details>
+  <a href="https://github.com/flexagoon/fxblue">
+    <picture>
+      <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/fxblue.png">
+      <source width="60%" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/fxblue.png">
+      <img width="60%" alt="Operating system: fxBlue" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/fxblue.png">
+    </picture>
+  </a>
+
+  <a href="https://neovim.io">
+    <picture>
+      <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/neovim.png">
+      <source width="60%" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/neovim.png">
+      <img width="60%" alt="Text editor: neovim" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/neovim.png">
+    </picture>
+  </a>
+
+  </details>
+</div>
 
 ## :sunglasses: Skills
 
