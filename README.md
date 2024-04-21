@@ -1,22 +1,33 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/github/assets/header.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/github/assets/header-lightmode.png">
-  <img alt="a cool header, too bad you can't see it" src="https://raw.githubusercontent.com/flexagoon/flexagoon/github/assets/header.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/header.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/header.png">
+  <img alt="a cool header, too bad you can't see it" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/header.png">
 </picture>
 
 # :wave: Hey, welcome to my GitHub page!
 
 ## :information_source: Click on any of the badges to learn more
 
-## :computer: System info
+<details>
+<summary><h2>:computer: System info</h2></summary>
 
-[![OS: fxBlue](https://shields.io/badge/OS-fxBlue-51A2DA?style=for-the-badge&logoColor=white&logo=Fedora)](https://github.com/flexagoon/fxblue)
-[![Editor: Neovim](https://shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logoColor=white&logo=Neovim)](https://neovim.io)
-[![Terminal: Wezterm](https://shields.io/badge/Terminal-Wezterm-4E49EE?style=for-the-badge&logoColor=white&logo=wezterm)](https://wezfurlong.org/wezterm/)
-[![DE: GNOME](https://shields.io/badge/DE-GNOME-4A86CF?style=for-the-badge&logoColor=white&logo=GNOME)](https://gnome.org)
-[![Browser: Firefox](https://shields.io/badge/Browser-Firefox-FF7139?style=for-the-badge&logoColor=white&logo=Firefox%20Browser)](https://mozilla.org/firefox)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/laptop.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/laptop.png">
+  <img alt="Laptop: Dell XPS 15 9520" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/laptop.png">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/fxblue.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/fxblue.png">
+  <img alt="Operating system: fxBlue" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/fxblue.png">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/neovim.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/neovim.png">
+  <img alt="Text editor: neovim" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/neovim.png">
+</picture>
 
-[![Laptop: Dell XPS 15 9520](https://shields.io/badge/%F0%9F%92%BB%20Laptop-Dell%20XPS%2015%209520-007DB8?style=for-the-badge&logoColor=white)](https://www.dell.com/en-us/shop/dell-laptops/xps-15-laptop/spd/xps-15-9520-laptop/xn9520cto030s)
+</details>
 
 ## :sunglasses: Skills
 
