@@ -8,18 +8,15 @@
 
 ## :information_source: Click on any of the badges to learn more
 
-<div align="center">
-  <details>
-  <summary>
-  <h2>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/system-info.png">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/system-info.png">
-      <img alt="System information" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/system-info.png">
-    </picture>
-  </h2>
-  </summary>
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/system-info.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/system-info.png">
+    <img alt="System information" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/system-info.png">
+  </picture>
+</h2>
 
+<div align="center">
   <a href="https://www.dell.com/en-us/shop/dell-laptops/xps-15-laptop/spd/xps-15-9520-laptop/xn9520cto030s">
     <picture>
       <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/laptop.png">
@@ -43,11 +40,15 @@
       <img width="60%" alt="Text editor: neovim" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/neovim.png">
     </picture>
   </a>
-
-  </details>
 </div>
 
-## :sunglasses: Skills
+<h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/skills.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/skills.png">
+    <img alt="Skills" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/skills.png">
+  </picture>
+</h2>
 
 ### :speech_balloon: Languages
 
