@@ -4,13 +4,7 @@
   <img alt="flexagoon" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/header.png">
 </picture>
 
-<h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/skills.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/skills.png">
-    <img alt="Skills" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/skills.png">
-  </picture>
-</h2>
+## Skills
 
 ### :speech_balloon: Languages
 
@@ -35,13 +29,7 @@
 [![Docker](https://shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker)](https://www.docker.com/)
 [![GitHub Actions](https://shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logoColor=white&logo=githubactions)](https://github.com/features/actions)
 
-<h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/system-info.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/system-info.png">
-    <img alt="System information" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/system-info.png">
-  </picture>
-</h2>
+## System information
 
 <div align="center">
   <a href="https://www.dell.com/en-us/shop/dell-laptops/xps-15-laptop/spd/xps-15-9520-laptop/xn9520cto030s">
