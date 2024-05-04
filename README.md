@@ -1,8 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/header.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/header.png">
-  <img alt="flexagoon" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/header.png">
-</picture>
+![flexagoon](https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/header.png#gh-dark-mode-only)
+![flexagoon](https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/header.png#gh-light-mode-only)
 
 ## Skills
 
