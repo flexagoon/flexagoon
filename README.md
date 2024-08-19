@@ -1,47 +1,171 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/github/assets/header.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/github/assets/header-lightmode.png">
-  <img alt="a cool header, too bad you can't see it" src="https://raw.githubusercontent.com/flexagoon/flexagoon/github/assets/header.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/header.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/header.png">
+  <img alt="flexagoon" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/header.png">
 </picture>
 
-# :wave: Hey, welcome to my GitHub page!
+<h3 align="center">Click on any badge to learn more</h2>
 
-## :information_source: Click on any of the badges to learn more
+## Skills
 
-## :computer: System info
+<p align="center">
+  <picture>
+    <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/backend.svg">
+    <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/backend.svg">
+    <img height="35px" alt="Backend" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/backend.svg">
+  </picture>
+  <a href="https://go.dev">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/go.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/go.svg">
+      <img height="35px" alt="Go" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/go.svg">
+    </picture>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/postgres.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/postgres.svg">
+      <img height="35px" alt="Postgres" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/postgres.svg">
+    </picture>
+  </a>
+</p>
 
-[![OS: fxBlue](https://shields.io/badge/OS-fxBlue-51A2DA?style=for-the-badge&logoColor=white&logo=Fedora)](https://github.com/flexagoon/fxblue)
-[![Editor: Neovim](https://shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logoColor=white&logo=Neovim)](https://neovim.io)
-[![Terminal: Wezterm](https://shields.io/badge/Terminal-Wezterm-4E49EE?style=for-the-badge&logoColor=white&logo=wezterm)](https://wezfurlong.org/wezterm/)
-[![DE: GNOME](https://shields.io/badge/DE-GNOME-4A86CF?style=for-the-badge&logoColor=white&logo=GNOME)](https://gnome.org)
-[![Browser: Firefox](https://shields.io/badge/Browser-Firefox-FF7139?style=for-the-badge&logoColor=white&logo=Firefox%20Browser)](https://mozilla.org/firefox)
+<p align="center">
+  <picture>
+    <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/frontend.svg">
+    <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/frontend.svg">
+    <img height="35px" alt="Frontend" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/frontend.svg">
+  </picture>
+  <a href="https://astro.build">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/astro.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/astro.svg">
+      <img height="35px" alt="Astro" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/astro.svg">
+    </picture>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/tailwind.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/tailwind.svg">
+      <img height="35px" alt="Tailwind" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/tailwind.svg">
+    </picture>
+  </a>
+  <a href="https://htmx.org/">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/htmx.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/htmx.svg">
+      <img height="35px" alt="HTMX" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/htmx.svg">
+    </picture>
+  </a>
+</p>
 
-[![Laptop: Dell XPS 15 9520](https://shields.io/badge/%F0%9F%92%BB%20Laptop-Dell%20XPS%2015%209520-007DB8?style=for-the-badge&logoColor=white)](https://www.dell.com/en-us/shop/dell-laptops/xps-15-laptop/spd/xps-15-9520-laptop/xn9520cto030s)
+<p align="center">
+  <picture>
+    <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/scripting.svg">
+    <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/scripting.svg">
+    <img height="35px" alt="Scripting" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/scripting.svg">
+  </picture>
+  <a href="https://julialang.org/">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/julia.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/julia.svg">
+      <img height="35px" alt="Julia" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/julia.svg">
+    </picture>
+  </a>
+  <a href="https://www.python.org/">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/python.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/python.svg">
+      <img height="35px" alt="Python" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/python.svg">
+    </picture>
+  </a>
+  <a href="https://fishshell.com/">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/fish.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/fish.svg">
+      <img height="35px" alt="Fish" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/fish.svg">
+    </picture>
+  </a>
+</p>
 
-## :sunglasses: Skills
+<p align="center">
+  <picture>
+    <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/mobile.svg">
+    <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/mobile.svg">
+    <img height="35px" alt="Mobile" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/mobile.svg">
+  </picture>
+  <a href="https://flutter.dev">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/flutter.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/flutter.svg">
+      <img height="35px" alt="Flutter" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/flutter.svg">
+    </picture>
+  </a>
+  <a href="https://dart.dev">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/dart.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/dart.svg">
+      <img height="35px" alt="Dart" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/dart.svg">
+    </picture>
+  </a>
+</p>
 
-### :speech_balloon: Languages
+<p align="center">
+  <picture>
+    <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/devops.svg">
+    <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/devops.svg">
+    <img height="35px" alt="DevOps" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/devops.svg">
+  </picture>
+  <a href="https://www.docker.com/">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/docker.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/docker.svg">
+      <img height="35px" alt="Docker" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/docker.svg">
+    </picture>
+  </a>
+  <a href="https://github.com/features/actions">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/actions.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/actions.svg">
+      <img height="35px" alt="Actions" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/actions.svg">
+    </picture>
+  </a>
+  <a href="https://systemd.io/">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/systemd.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/systemd.svg">
+      <img height="35px" alt="SystemD" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/systemd.svg">
+    </picture>
+  </a>
+</p>
 
-[![Go](https://shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)](https://go.dev)
-[![Julia](https://shields.io/badge/Julia-9558B2?style=for-the-badge&logoColor=white&logo=julia)](https://julialang.org)
-[![Dart](https://shields.io/badge/Dart-0175C2?style=for-the-badge&logoColor=white&logo=dart)](https://dart.dev)
-[![Python](https://shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white&logo=python)](https://python.org)
+## System information
 
-### :key: SDKs and frameworks
+<div align="center">
+  <a href="https://www.dell.com/en-us/shop/dell-laptops/xps-15-laptop/spd/xps-15-9520-laptop/xn9520cto030s">
+    <picture>
+      <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/laptop.png">
+      <source width="60%" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/laptop.png">
+      <img width="60%" alt="Laptop: Dell XPS 15 9520" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/laptop.png">
+    </picture>
+  </a>
 
-[![Flutter](https://shields.io/badge/Flutter-02569B?style=for-the-badge&logoColor=white&logo=flutter)](https://flutter.dev)
-[![Supabase](https://shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logoColor=white&logo=Supabase)](https://supabase.com)
-[![HTMX](https://shields.io/badge/HTMX-3366CC?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+aHRteDwvdGl0bGU+PHBhdGggZD0iTTAgMTMuMDF2LTJsNy4wOS0yLjk4LjU4IDEuOTQtNS4xIDIuMDUgNS4xNiAyLjA1LS42MyAxLjlabTE2LjM3IDEuMDMgNS4xOC0yLTUuMTYtMi4wOS42NS0xLjg4TDI0IDEwLjk1djIuMTJMMTcgMTZ6bS0yLjg1LTkuOThIMTZsLTUuNDcgMTUuODhIOC4wNVoiIGZpbGw9IndoaXRlIi8+PC9zdmc+Cg==)](https://htmx.org)
-[![Hugo](https://shields.io/badge/Hugo-FF4088?style=for-the-badge&logoColor=white&logo=hugo)](https://gohugo.io)
+  <a href="https://github.com/flexagoon/fxblue">
+    <picture>
+      <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/fxblue.png">
+      <source width="60%" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/fxblue.png">
+      <img width="60%" alt="Operating system: fxBlue" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/fxblue.png">
+    </picture>
+  </a>
 
-### :globe_with_meridians: Other
-
-[![Telegram API](https://shields.io/badge/Telegram%20API-26A5E4?style=for-the-badge&logoColor=white&logo=telegram)](https://core.telegram.org)
-[![LaTeX](https://shields.io/badge/LaTeX-008080?style=for-the-badge&logoColor=white&logo=latex)](https://latex-project.org)
-[![OSM Mapping](https://shields.io/badge/OSM%20Mapping-7EBC6F?style=for-the-badge&logoColor=white&logo=openstreetmap)](https://osm.org)
-[![Git](https://shields.io/badge/Git%20(obviously%20lol)-F05032?style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com)
-[![Docker](https://shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker)](https://www.docker.com/)
-[![GitHub Actions](https://shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logoColor=white&logo=githubactions)](https://github.com/features/actions)
+  <a href="https://neovim.io">
+    <picture>
+      <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/neovim.png">
+      <source width="60%" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/neovim.png">
+      <img width="60%" alt="Text editor: neovim" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/neovim.png">
+    </picture>
+  </a>
+</div>
 
 ## :mailbox: Contact me
 
