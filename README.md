@@ -5,7 +5,9 @@
 
 ### :speech_balloon: Languages
 
+![Backend](https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/backend.svg)
 [![Go](https://shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)](https://go.dev)
+
 [![Julia](https://shields.io/badge/Julia-9558B2?style=for-the-badge&logoColor=white&logo=julia)](https://julialang.org)
 [![Dart](https://shields.io/badge/Dart-0175C2?style=for-the-badge&logoColor=white&logo=dart)](https://dart.dev)
 [![Python](https://shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white&logo=python)](https://python.org)
