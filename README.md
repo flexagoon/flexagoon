@@ -4,6 +4,8 @@
   <img alt="flexagoon" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/header.png">
 </picture>
 
+<h3 align="center">Click on any badge to learn more</h2>
+
 ## Skills
 
 <p align="center">
