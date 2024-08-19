@@ -6,8 +6,6 @@
 
 ## Skills
 
-### :speech_balloon: Languages
-
 <p>
   <picture>
     <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/backend.svg">
@@ -19,6 +17,13 @@
       <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/go.svg">
       <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/go.svg">
       <img height="35px" alt="Go" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/go.svg">
+    </picture>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexapostgreson/flexapostgreson/rewrite/assets/postgres.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexapostgreson/flexapostgreson/rewrite/assets/lightmode/postgres.svg">
+      <img height="35px" alt="Postgres" src="https://raw.githubusercontent.com/flexapostgreson/flexapostgreson/rewrite/assets/postgres.svg">
     </picture>
   </a>
 </p>
@@ -72,23 +77,65 @@
       <img height="35px" alt="Python" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/python.svg">
     </picture>
   </a>
+  <a href="https://fishshell.com/">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/fish.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/fish.svg">
+      <img height="35px" alt="Fish" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/fish.svg">
+    </picture>
+  </a>
 </p>
 
-### :key: SDKs and frameworks
+<p>
+  <picture>
+    <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/mobile.svg">
+    <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/mobile.svg">
+    <img height="35px" alt="Mobile" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/mobile.svg">
+  </picture>
+  <a href="https://flutter.dev">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/flutter.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/flutter.svg">
+      <img height="35px" alt="Flutter" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/flutter.svg">
+    </picture>
+  </a>
+  <a href="https://dart.dev">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/dart.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/dart.svg">
+      <img height="35px" alt="Dart" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/dart.svg">
+    </picture>
+  </a>
+</p>
 
-[![Flutter](https://shields.io/badge/Flutter-02569B?style=for-the-badge&logoColor=white&logo=flutter)](https://flutter.dev)
-[![Supabase](https://shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logoColor=white&logo=Supabase)](https://supabase.com)
-[![HTMX](https://shields.io/badge/HTMX-3366CC?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+aHRteDwvdGl0bGU+PHBhdGggZD0iTTAgMTMuMDF2LTJsNy4wOS0yLjk4LjU4IDEuOTQtNS4xIDIuMDUgNS4xNiAyLjA1LS42MyAxLjlabTE2LjM3IDEuMDMgNS4xOC0yLTUuMTYtMi4wOS42NS0xLjg4TDI0IDEwLjk1djIuMTJMMTcgMTZ6bS0yLjg1LTkuOThIMTZsLTUuNDcgMTUuODhIOC4wNVoiIGZpbGw9IndoaXRlIi8+PC9zdmc+Cg==)](https://htmx.org)
-[![Hugo](https://shields.io/badge/Hugo-FF4088?style=for-the-badge&logoColor=white&logo=hugo)](https://gohugo.io)
-
-### :globe_with_meridians: Other
-
-[![Telegram API](https://shields.io/badge/Telegram%20API-26A5E4?style=for-the-badge&logoColor=white&logo=telegram)](https://core.telegram.org)
-[![LaTeX](https://shields.io/badge/LaTeX-008080?style=for-the-badge&logoColor=white&logo=latex)](https://latex-project.org)
-[![OSM Mapping](https://shields.io/badge/OSM%20Mapping-7EBC6F?style=for-the-badge&logoColor=white&logo=openstreetmap)](https://osm.org)
-[![Git](https://shields.io/badge/Git%20(obviously%20lol)-F05032?style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com)
-[![Docker](https://shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white&logo=docker)](https://www.docker.com/)
-[![GitHub Actions](https://shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logoColor=white&logo=githubactions)](https://github.com/features/actions)
+<p>
+  <picture>
+    <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/devops.svg">
+    <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/devops.svg">
+    <img height="35px" alt="DevOps" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/devops.svg">
+  </picture>
+  <a href="https://www.docker.com/">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/docker.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/docker.svg">
+      <img height="35px" alt="Docker" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/docker.svg">
+    </picture>
+  </a>
+  <a href="https://github.com/features/actions">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/actions.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/actions.svg">
+      <img height="35px" alt="Actions" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/actions.svg">
+    </picture>
+  </a>
+  <a href="https://systemd.io/">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/systemd.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/systemd.svg">
+      <img height="35px" alt="SystemD" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/systemd.svg">
+    </picture>
+  </a>
+</p>
 
 ## System information
 
