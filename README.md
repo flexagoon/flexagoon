@@ -21,9 +21,9 @@
   </a>
   <a href="https://www.postgresql.org/">
     <picture>
-      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexapostgreson/flexapostgreson/rewrite/assets/postgres.svg">
-      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexapostgreson/flexapostgreson/rewrite/assets/lightmode/postgres.svg">
-      <img height="35px" alt="Postgres" src="https://raw.githubusercontent.com/flexapostgreson/flexapostgreson/rewrite/assets/postgres.svg">
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/postgres.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/postgres.svg">
+      <img height="35px" alt="Postgres" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/postgres.svg">
     </picture>
   </a>
 </p>
