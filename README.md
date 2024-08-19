@@ -8,7 +8,11 @@
 
 ### :speech_balloon: Languages
 
-![Backend](https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/backend.svg)
+<picture>
+  <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/backend.svg">
+  <source width="20%" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/backend.svg">
+  <img width="20%" alt="Backend" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/backend.svg">
+</picture>
 [![Go](https://shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)](https://go.dev)
 
 [![Julia](https://shields.io/badge/Julia-9558B2?style=for-the-badge&logoColor=white&logo=julia)](https://julialang.org)
