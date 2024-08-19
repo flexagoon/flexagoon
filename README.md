@@ -8,12 +8,20 @@
 
 ### :speech_balloon: Languages
 
-<picture>
-  <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/backend.svg">
-  <source width="20%" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/backend.svg">
-  <img width="20%" alt="Backend" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/backend.svg">
-</picture>
-[![Go](https://shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white&logo=go)](https://go.dev)
+<p>
+  <picture>
+    <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/backend.svg">
+    <source width="20%" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/backend.svg">
+    <img width="20%" alt="Backend" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/backend.svg">
+  </picture>
+  <a href="https://go.dev">
+    <picture>
+      <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/go.svg">
+      <source width="20%" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/go.svg">
+      <img width="20%" alt="Go" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/go.svg">
+    </picture>
+  </a>
+</p>
 
 [![Julia](https://shields.io/badge/Julia-9558B2?style=for-the-badge&logoColor=white&logo=julia)](https://julialang.org)
 [![Dart](https://shields.io/badge/Dart-0175C2?style=for-the-badge&logoColor=white&logo=dart)](https://dart.dev)
