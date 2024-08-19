@@ -15,11 +15,7 @@
     <img height="35px" alt="Backend" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/backend.svg">
   </picture>
   <a href="https://go.dev">
-    <picture>
-      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/go.svg">
-      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/go.svg">
-      <img height="35px" alt="Go" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/go.svg">
-    </picture>
+    <img height="35px" alt="Go" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/go.svg">
   </a>
 </p>
 
@@ -30,25 +26,13 @@
     <img height="35px" alt="Frontend" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/frontend.svg">
   </picture>
   <a href="https://astro.build">
-    <picture>
-      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/astro.svg">
-      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/astro.svg">
-      <img height="35px" alt="Astro" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/astro.svg">
-    </picture>
+    <img height="35px" alt="Astro" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/astro.svg">
   </a>
   <a href="https://tailwindcss.com/">
-    <picture>
-      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/tailwind.svg">
-      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/tailwind.svg">
-      <img height="35px" alt="Tailwind" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/tailwind.svg">
-    </picture>
+    <img height="35px" alt="Tailwind" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/tailwind.svg">
   </a>
   <a href="https://htmx.org/">
-    <picture>
-      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/htmx.svg">
-      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/htmx.svg">
-      <img height="35px" alt="HTMX" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/htmx.svg">
-    </picture>
+    <img height="35px" alt="HTMX" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/htmx.svg">
   </a>
 </p>
 
