@@ -10,15 +10,15 @@
 
 <p>
   <picture>
-    <source width="20%" height="70px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/backend.svg">
-    <source width="20%" height="70px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/backend.svg">
-    <img width="20%" height="70px" alt="Backend" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/backend.svg">
+    <source height="50px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/backend.svg">
+    <source height="50px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/backend.svg">
+    <img height="50px" alt="Backend" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/backend.svg">
   </picture>
   <a href="https://go.dev">
     <picture>
-      <source width="20%" height="70px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/go.svg">
-      <source width="20%" height="70px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/go.svg">
-      <img width="20%" height="70px" alt="Go" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/go.svg">
+      <source height="50px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/go.svg">
+      <source height="50px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/go.svg">
+      <img height="50px" alt="Go" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/go.svg">
     </picture>
   </a>
 </p>
