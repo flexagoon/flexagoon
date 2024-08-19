@@ -52,9 +52,27 @@
   </a>
 </p>
 
-[![Julia](https://shields.io/badge/Julia-9558B2?style=for-the-badge&logoColor=white&logo=julia)](https://julialang.org)
-[![Dart](https://shields.io/badge/Dart-0175C2?style=for-the-badge&logoColor=white&logo=dart)](https://dart.dev)
-[![Python](https://shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white&logo=python)](https://python.org)
+<p>
+  <picture>
+    <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/scripting.svg">
+    <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/scripting.svg">
+    <img height="35px" alt="Scripting" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/scripting.svg">
+  </picture>
+  <a href="https://julialang.org/">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/julia.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/julia.svg">
+      <img height="35px" alt="Julia" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/julia.svg">
+    </picture>
+  </a>
+  <a href="https://www.python.org/">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/python.svg">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/python.svg">
+      <img height="35px" alt="Python" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/python.svg">
+    </picture>
+  </a>
+</p>
 
 ### :key: SDKs and frameworks
 
