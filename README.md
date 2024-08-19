@@ -6,7 +6,7 @@
 
 ## Skills
 
-<p>
+<p align="center">
   <picture>
     <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/backend.svg">
     <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/backend.svg">
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <picture>
     <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/frontend.svg">
     <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/frontend.svg">
@@ -57,7 +57,7 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <picture>
     <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/scripting.svg">
     <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/scripting.svg">
@@ -86,7 +86,7 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <picture>
     <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/mobile.svg">
     <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/mobile.svg">
@@ -108,7 +108,7 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <picture>
     <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/devops.svg">
     <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/devops.svg">
