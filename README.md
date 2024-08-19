@@ -23,6 +23,35 @@
   </a>
 </p>
 
+<p>
+  <picture>
+    <source height="50px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/frontend.svg">
+    <source height="50px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/frontend.svg">
+    <img height="50px" alt="Frontend" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/frontend.svg">
+  </picture>
+  <a href="https://astro.build">
+    <picture>
+      <source height="50px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/astro.svg">
+      <source height="50px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/astro.svg">
+      <img height="50px" alt="Astro" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/astro.svg">
+    </picture>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <picture>
+      <source height="50px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/tailwind.svg">
+      <source height="50px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/tailwind.svg">
+      <img height="50px" alt="Tailwind" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/tailwind.svg">
+    </picture>
+  </a>
+  <a href="https://htmx.org/">
+    <picture>
+      <source height="50px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/htmx.svg">
+      <source height="50px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/lightmode/htmx.svg">
+      <img height="50px" alt="HTMX" src="https://raw.githubusercontent.com/flexagoon/flexagoon/rewrite/assets/htmx.svg">
+    </picture>
+  </a>
+</p>
+
 [![Julia](https://shields.io/badge/Julia-9558B2?style=for-the-badge&logoColor=white&logo=julia)](https://julialang.org)
 [![Dart](https://shields.io/badge/Dart-0175C2?style=for-the-badge&logoColor=white&logo=dart)](https://dart.dev)
 [![Python](https://shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white&logo=python)](https://python.org)
