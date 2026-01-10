@@ -4,6 +4,8 @@
   <img alt="flexagoon" src="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/header.png">
 </picture>
 
+<h2 align="center">You can find my full CV <a href="https://rxresu.me/flexagoon/developer">here</a></h2>
+
 <h3 align="center">Click on any badge to learn more</h2>
 
 ## Skills
@@ -14,6 +16,27 @@
     <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/lightmode/backend.png">
     <img height="35px" alt="Backend" src="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/backend.png">
   </picture>
+  <a href="https://elixir-lang.org/">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/elixir.png">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/lightmode/elixir.png">
+      <img height="35px" alt="elixir" src="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/elixir.png">
+    </picture>
+  </a>
+  <a href="https://www.python.org/">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/python.png">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/lightmode/python.png">
+      <img height="35px" alt="Python" src="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/python.png">
+    </picture>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/typescript.png">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/lightmode/typescript.png">
+      <img height="35px" alt="typescript" src="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/typescript.png">
+    </picture>
+  </a>
   <a href="https://go.dev">
     <picture>
       <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/go.png">
@@ -55,6 +78,13 @@
       <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/htmx.png">
       <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/lightmode/htmx.png">
       <img height="35px" alt="HTMX" src="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/htmx.png">
+    </picture>
+  </a>
+  <a href="https://nextjs.org/">
+    <picture>
+      <source height="35px" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/nextjs.png">
+      <source height="35px" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/lightmode/nextjs.png">
+      <img height="35px" alt="nextjs" src="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/nextjs.png">
     </picture>
   </a>
 </p>
