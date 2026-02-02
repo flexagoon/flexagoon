@@ -1,7 +1,7 @@
 <img alt="flexagoon" src="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/header.png#gh-dark-mode-only">
 <img alt="flexagoon" src="https://raw.githubusercontent.com/flexagoon/flexagoon/main/assets/lightmode/header.png#gh-light-mode-only">
 
-<h2 align="center">You can find my full CV <a href="https://rxresu.me/flexagoon/developer">here</a></h2>
+<h2 align="center">You can find my full CV <a href="https://fxgn.dev/resume.pdf">here</a></h2>
 
 <h3 align="center">Click on any badge to learn more</h2>
 
